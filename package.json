@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "My first node based cli \"power\" app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDSGYT/node-power-cli.git"
+  },
+  "author": "KDSG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDSGYT/node-power-cli/issues"
+  },
+  "homepage": "https://github.com/KDSGYT/node-power-cli#readme",
+  "dependencies": {
+    "enquirer": "^2.3.5"
+  }
+}
